@@ -1,5 +1,7 @@
 ### CS50 Exercises
 
+Please respect the [Academic Honesty](https://cs50.harvard.edu/x/2024/honesty/) policies.
+
 This repository contains my solutions to the exercises from the CS50: Introduction to Computer Science course. I am a Jean, and I created this repository to share my work with other students.
 
 Exercises
