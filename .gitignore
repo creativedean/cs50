@@ -9,3 +9,14 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+cash/cash
+caesar/caesar
+bulbs/bulbs
+filter-less/filter
+filter-less/saida.bmp
+hello/hello
+plurality/plurality
+population/population
+readability/readability
+runoff/runoff
+scrabble/scrabble
