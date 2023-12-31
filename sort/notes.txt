@@ -1,0 +1,65 @@
+sort1
+random5000:
+real    0m0,153s
+user    0m0,038s
+sys     0m0,035s
+
+sorted5000:
+real    0m0,043s
+user    0m0,000s
+sys     0m0,031s
+
+reversed5000:
+real    0m0,103s
+user    0m0,043s
+sys     0m0,032s
+
+random50000:
+real    0m5,578s
+user    0m5,033s
+sys     0m0,320s
+
+reversed50000:
+real    0m4,981s
+user    0m4,293s
+sys     0m0,298s
+
+sorted50000:
+real    0m0,485s
+user    0m0,032s
+sys     0m0,259s
+
+_______________
+sort2
+
+sorted50000:
+real    0m0,510s
+user    0m0,028s
+sys     0m0,279s
+
+random50000:
+real    0m0,471s
+user    0m0,025s
+sys     0m0,272s
+
+reversed50000:
+real    0m0,441s
+user    0m0,021s
+sys     0m0,271s
+________________
+sort3
+
+sorted50000:
+real    0m2,281s
+user    0m1,784s
+sys     0m0,291s
+
+random50000:
+real    0m2,459s
+user    0m1,822s
+sys     0m0,309s
+
+reversed50000:
+real    0m2,510s
+user    0m2,077s
+sys     0m0,292s
