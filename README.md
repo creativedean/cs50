@@ -1,6 +1,6 @@
 ### CS50 Exercises
 
-This repository contains my solutions to the exercises from the CS50: Introduction to Computer Science course. I am a [your experience], and I created this repository to share my work with other students.
+This repository contains my solutions to the exercises from the CS50: Introduction to Computer Science course. I am a Jean, and I created this repository to share my work with other students.
 
 Exercises
 The exercises in this repository are organized by week. Here is a list of the exercises I have solved:
